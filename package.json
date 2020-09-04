@@ -1,0 +1,8 @@
+{
+  "name": "gulp-template",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/Landerfire/gulp-template.git",
+  "author": "Landerfire <stalker200830@gmail.com>",
+  "license": "MIT"
+}
